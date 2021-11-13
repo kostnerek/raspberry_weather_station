@@ -1,0 +1,13 @@
+{
+    "purifier_ip":"",
+    "purifier_token":"",
+    "openweathermap_key":"",
+    "lat":"",
+    "lng":"",
+    "airly_installation_id":"",
+    "airly_keys":{
+        "1":"",
+        "2":"",
+        "3":""
+    }
+}
