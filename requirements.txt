@@ -1,4 +1,4 @@
-python-miio
-Flask
-board
-adafruit_dht
+Flask==2.0.2
+Flask-Cors==3.0.10
+python-miio==0.5.8
+adafruit-circuitpython-dht==1.1.0
